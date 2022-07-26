@@ -130,9 +130,9 @@
 <details>
 <summary>Yararlı Linkler</summary>
 
-[API ve API testi nedir?](https://medium.com/kuka-mobile-tech/api-ve-api-testi%CC%87-nedi%CC%87r-4227fc99313f)
-[BTK AKADEMI - API ve API Testi](https://www.btkakademi.gov.tr/portal/course/api-ve-api-testi-12025)
-[Wikipedia API Testing](https://en.wikipedia.org/wiki/API_testing)
+[API ve API testi nedir?](https://medium.com/kuka-mobile-tech/api-ve-api-testi%CC%87-nedi%CC%87r-4227fc99313f)\
+[BTK AKADEMI - API ve API Testi](https://www.btkakademi.gov.tr/portal/course/api-ve-api-testi-12025)\
+[Wikipedia API Testing](https://en.wikipedia.org/wiki/API_testing)\
 [Katalon API Testing](https://katalon.com/api-testing)
 
 </details>

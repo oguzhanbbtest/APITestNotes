@@ -83,7 +83,7 @@
     404 NOT FOUND – İstenilen işlem yoksa kullanılır.
     405 METHOD NOT ALLOWED – İzin verilmeyen HTTP yöntemi kullanıldığında bilgi vermek için kullanılır.
     409 CONFLICT – Aynı veri üzerinde birden fazla kişinin işlem yaptığını bildirmek için kullanılır.
-    500 INTERNAL SERVER ERROR – Sunucuda herhangi bir hata olduğunda kullanılır.7
+    500 INTERNAL SERVER ERROR – Sunucuda herhangi bir hata olduğunda kullanılır.
 
 <div align="center">
     <img src="apimage/api-testing-mind-map-3.png">
